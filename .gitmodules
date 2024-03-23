@@ -1,0 +1,66 @@
+[submodule "Information-security"]
+	path = Information-security
+	url = https://github.com/NemoNology/Information-security.git
+[submodule "AniWebby"]
+	path = AniWebby
+	url = https://github.com/NemoNology/AniWebby.git
+[submodule "Interactive-graphic-systems"]
+	path = Interactive-graphic-systems
+	url = https://github.com/NemoNology/Interactive-graphic-systems.git
+[submodule "Programing-languages-theory"]
+	path = Programing-languages-theory
+	url = https://github.com/NemoNology/Programing-languages-theory.git
+[submodule "New-IT"]
+	path = New-IT
+	url = https://github.com/NemoNology/New-IT.git
+[submodule "Experimental-data-processing"]
+	path = Experimental-data-processing
+	url = https://github.com/NemoNology/Experimental-data-processing.git
+[submodule "CSNT"]
+	path = CSNT
+	url = https://github.com/NemoNology/CSNT.git
+[submodule "Experts-systems"]
+	path = Experts-systems
+	url = https://github.com/NemoNology/Experts-systems.git
+[submodule "SDPA"]
+	path = SDPA
+	url = https://github.com/NemoNology/SDPA.git
+[submodule "WEB-Programming"]
+	path = WEB-Programming
+	url = https://github.com/NemoNology/WEB-Programming.git
+[submodule "DB"]
+	path = DB
+	url = https://github.com/NemoNology/DB.git
+[submodule "Android-Dev"]
+	path = Android-Dev
+	url = https://github.com/NemoNology/Android-Dev.git
+[submodule "ComputerArchitecture"]
+	path = ComputerArchitecture
+	url = https://github.com/NemoNology/ComputerArchitecture.git
+[submodule "Computer-Graphics"]
+	path = Computer-Graphics
+	url = https://github.com/NemoNology/Computer-Graphics.git
+[submodule "MobileApplication"]
+	path = MobileApplication
+	url = https://github.com/NemoNology/MobileApplication.git
+[submodule "CPT"]
+	path = CPT
+	url = https://github.com/NemoNology/CPT.git
+[submodule "Computer-Modeling"]
+	path = Computer-Modeling
+	url = https://github.com/NemoNology/Computer-Modeling.git
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/NemoNology/OOP.git
+[submodule "CM"]
+	path = CM
+	url = https://github.com/NemoNology/CM.git
+[submodule "Programing"]
+	path = Programing
+	url = https://github.com/NemoNology/Programing.git
+[submodule "HCI"]
+	path = HCI
+	url = https://github.com/NemoNology/HCI.git
+[submodule "EC_Organization"]
+	path = EC_Organization
+	url = https://github.com/NemoNology/EC_Organization.git
