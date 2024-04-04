@@ -61,3 +61,6 @@
 [submodule "EC_Organization"]
 	path = EC_Organization
 	url = https://github.com/NemoNology/EC_Organization.git
+[submodule "Degree-work"]
+	path = Degree-work
+	url = https://github.com/NemoNology/Degree-work.git
