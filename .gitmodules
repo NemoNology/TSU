@@ -1,9 +1,6 @@
 [submodule "Information-security"]
 	path = Information-security
 	url = https://github.com/NemoNology/Information-security.git
-[submodule "AniWebby"]
-	path = AniWebby
-	url = https://github.com/NemoNology/AniWebby.git
 [submodule "Interactive-graphic-systems"]
 	path = Interactive-graphic-systems
 	url = https://github.com/NemoNology/Interactive-graphic-systems.git
